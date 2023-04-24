@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--TimeOut-->
+    <Timeout>5</Timeout>
+
+    <!--Web-->
+    <PlatformName>web</PlatformName>
+    <BrowserName>chrome</BrowserName>
+    <url>https://www.jobnet.co.il/</url>
+    <ImageRepo>C:\\ii\\WorkProject\\ImageRepository\\</ImageRepo>
+</Environment>
